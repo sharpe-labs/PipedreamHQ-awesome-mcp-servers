@@ -2572,7 +2572,7 @@ Visit www.ragic.com to get started with your free database!"
  - [Yoast SEO MCP Server](https://mcp.pipedream.com/app/yoast_seo) - Yoast is your go-to resource for everything SEO 🎯 We help you rank your WordPress website
  - [Zip Archive API MCP Server](https://mcp.pipedream.com/app/zip_archive_api) - Compress your files with the ZIP Archive API.
 
-### <a name="other"></a>other
+### <a name="other"></a>Other
 
  - [Acelle Mail MCP Server](https://mcp.pipedream.com/app/acelle_mail) - Acelle Mail is a self-hosted, full-featured, easy to use Email Marketing Web Application
  - [Affinda MCP Server](https://mcp.pipedream.com/app/affinda) - Use AI to do your document processing, and free your team to do the real work
