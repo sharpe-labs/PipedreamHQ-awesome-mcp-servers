@@ -38,9 +38,6 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 * [Travel](#travel)
 * [Web & App Development](#web-app-development)
 * [Other](#other)
-![image](https://github.com/user-attachments/assets/fbd982ac-690d-4437-840e-512b88d34a82)
-
-
 
 ### <a name="artificial-intelligence"></a>Artificial Intelligence (AI)
 
